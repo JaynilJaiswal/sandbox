@@ -9,6 +9,9 @@
 ## Output :
 - Campus type is printed on screen.
 
+<img src="https://github.com/JaynilJaiswal/sandbox/blob/master/ml-dl-ds/assignment_v3/detectable_text.jpg" width="500">
+
+
 ## Issues :
 - Works with only better quality scans.(Like ms-7.jpg & ms-9.jpg)
 - Output may depend on the format of how table of marks is arranged. But that code can be changed acoordingly because OCR is working good.
